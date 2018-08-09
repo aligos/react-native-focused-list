@@ -38,7 +38,7 @@ class UserComponent extends Component {
         onLayout={this.props.onLayout}
       >
         <View style={styles.textWrapper}>
-          <Text style={styles.text}>{this.props.name}</Text>
+          <Text style={styles.text}>{this.props.name.first}</Text>
           {focusText}
         </View>
       </View>
