@@ -1,0 +1,27 @@
+{
+  "name": "react-native-focused-list",
+  "version": "1.0.0",
+  "description": "Focused ScrollView with onReachEnd Props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligos/react-native-focused-list.git"
+  },
+  "keywords": [
+    "Focused",
+    "ScrollView",
+    "Focused",
+    "List",
+    "Focused",
+    "Flatlist"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aligos/react-native-focused-list/issues"
+  },
+  "homepage": "https://github.com/aligos/react-native-focused-list#readme"
+}
